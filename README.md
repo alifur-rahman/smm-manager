@@ -1,5 +1,5 @@
 # 🚀 SMM Manager for Nextpost
-### Optimized for Socialfyy, RapidGrowth, and HelpSocial
+
 
 [![Nextpost Compatible](https://img.shields.io/badge/Nextpost-Verified-blue.svg?style=for-the-badge&logo=instagram)](https://nextpost.app/)
 [![License](https://img.shields.io/badge/License-Private-red.svg?style=for-the-badge)](LICENSE)
