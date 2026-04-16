@@ -4,7 +4,6 @@
 [![Nextpost Compatible](https://img.shields.io/badge/Nextpost-Verified-blue.svg?style=for-the-badge&logo=instagram)](https://nextpost.app/)
 [![License](https://img.shields.io/badge/License-Private-red.svg?style=for-the-badge)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/alifurcoder)
-[![Developer](https://img.shields.io/badge/Developer-Alifur%20Rahman-orange.svg?style=for-the-badge)](mailto:alifurcoder@gmail.com)
 
 ---
 
